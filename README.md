@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a >
-    <img src="./images/snkrs.jpg" alt="Logo" width="350" height="200">
+    <img src="./images/snkrs.jpg" alt="Logo" width="400" height="250">
   </a>
 
   <h3 align="center">snkrs-bot</h3>
