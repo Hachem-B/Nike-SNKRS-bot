@@ -20,8 +20,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/mosuswalks/snkrs-bot">
-    <img src="./images/snkrs.svg" alt="Logo" width="150" height="100">
+  <a >
+    <img src="./images/snkrs.jpg" alt="Logo" width="150" height="100">
   </a>
 
   <h3 align="center">snkrs-bot</h3>
