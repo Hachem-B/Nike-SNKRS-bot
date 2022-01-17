@@ -127,13 +127,6 @@ node cron.js
 ```
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/mosuswalks/snkrs-bot/issues) for a list of proposed features (and known issues).
-
-
-
 
 
 
